@@ -27,7 +27,7 @@ import numpy as np
 # print(np.diag(y))
 # print(np.diag(np.diag(y)))
 # print(np.diag(np.array([1,2,3])))
-#
+#ddd
 # #원하는 원소로 행렬 생성
 # x=np.array([[1,2,3], [4,5,6]])
 # print(x)
@@ -67,3 +67,5 @@ import numpy as np
 #
 # is_lower = np.allclose(C, np.tril(C))
 # print(f"하삼각행렬인가? {is_lower}") #True
+
+##test
